@@ -1,5 +1,8 @@
 -- Members
 Jamie Cummings
 
---Trello Board
+-- Trello Board
 https://trello.com/b/p2DUgfBD/wdd330-sleep-outside
+
+-- Deployed to
+https://otherworld-wdd330-sleepoutside.netlify.app/
